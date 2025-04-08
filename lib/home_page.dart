@@ -84,7 +84,7 @@ class HomePage extends StatelessWidget {
                                   film.genre,
                                   style: const TextStyle(fontSize: 14),
                                 ),
-                                const SizedBox(height: 17),
+                                const SizedBox(height: 5),
 
                                 ElevatedButton(
                                   onPressed: () {
